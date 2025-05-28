@@ -6,3 +6,5 @@ data/*.h5
 data/*.pgn
 data/*.zip
 data/*.json
+*.cache
+pygame/
